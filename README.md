@@ -1,4 +1,4 @@
-# Anuj Bali — TPM & Risk Portfolio
+# Anuj Bali — Technical Project & Risk Portfolio
 
 Cross-functional program leader focused on operational risk reduction, fraud prevention, AI automation, and SLA governance across high-volume B2C systems (1.5M+ users).
 
